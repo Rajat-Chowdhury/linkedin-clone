@@ -8,6 +8,8 @@
     padding: 10px 0 10px 0;
     width: 100%;
     z-index: 999;
+    margin-bottom: 5px;
+    background-color: white;
 }
 
 .header__left{

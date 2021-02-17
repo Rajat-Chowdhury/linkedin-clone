@@ -95,4 +95,15 @@
     background-color: whitesmoke;
     cursor: pointer;
     color: black;
+    border-radius: 10px;
+}
+
+.sidebar__hash{
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.sidebar__bottom > p {
+    font-size: 13px;
+    padding-bottom: 10px;
 }
